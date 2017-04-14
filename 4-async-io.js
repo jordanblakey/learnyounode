@@ -25,6 +25,3 @@ fs.readFile(file, function(err, contents) {
   console.log(lines)
 })
 */
-
-var fs = require('fs');
-var path = process.argv[2];
